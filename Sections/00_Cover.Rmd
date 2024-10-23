@@ -14,7 +14,7 @@ output:
 
 \Huge
 
-\textbf{HERE GOES YOUR TITLE}
+\textbf{Countergradient variation in lodgepole pine flowering phenology}
 
 \Large
 
@@ -26,15 +26,13 @@ by
 
 \huge
 
-Here Goes Your Name
+Carolyn Susannah Tysor
 
 \Large
 
 \vspace{8mm}
 
-Undergraduate degree
-
-Master degree
+B.Sc., Northern Arizona University, 2010
 
 \vspace{10mm}
 
@@ -42,7 +40,7 @@ A DISSERTATION SUBMITTED IN PARTIAL FULFILLMENT OF THE REQUIREMENTS FOR THE DEGR
 
 \vspace{5mm}
 
-HERE GOES YOUR DEGREEE
+Master of Science
 
 \vspace{5mm}
 in
@@ -53,7 +51,7 @@ THE FACULTY OF GRADUATE AND POSTDOCTORAL STUDIES
 
 \vspace{5mm}
 
-(Program)
+(Forestry)
 
 \vspace{5mm}
 
@@ -67,7 +65,7 @@ THE UNIVERSITY OF BRITISH COLUMBIA
 
 Month YYYY
 
-© Here Goes Your Name, YYYY
+© Carolyn Susannah Tysor, 2024
 
 \end{center}
 \end{singlespace}

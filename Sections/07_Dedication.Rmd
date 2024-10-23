@@ -9,7 +9,13 @@ output:
 
 \begin{center}
     \vspace*{\fill}
-    Insert here your dedication
+
+To my kith and kin who did not live to see this work finished, but cheered me along the way.
+
+J.J.T., D.B., C.M., B.T., H.C., K.N., A.J., D.C., S.V., J.R.
+
+The dead are not far gone from us, and we carry them with us all the time. - Alice Walker
+
     \vspace*{\fill}
 \end{center}
 

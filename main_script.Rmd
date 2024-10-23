@@ -17,8 +17,8 @@ header-includes:
    - \usepackage{wrapfig}
    - \usepackage{pdfpages}
    - \usepackage{caption} # allows setting caption width for tables
-bibliography: ./References/reference_list.bib
-csl: ./References/reference_format-Vancouver.csl
+bibliography: ./References/literature.bib
+csl: ./References/new-phytologist.csl
 link-citations: yes
 linkcolor: black
 ---
@@ -173,7 +173,7 @@ NOTE: Remove normal markdown chapters before rendering to PDF  -->
 <!-- From here on, include your different data chapters using normal Rmarkdown titles -->
 
 <!-- Modify me! -->
-# Insert Title of Chapter 2 Here 
+# Countergradient variation in lodgepole pine flowering phenology 
 
 <!-- Set figure and table numbering according to the chapter -->
 \renewcommand{\thefigure}{2.\arabic{figure}}
@@ -183,58 +183,13 @@ NOTE: Remove normal markdown chapters before rendering to PDF  -->
 \renewcommand{\theequation}{2.\arabic{equation}}
 \setcounter{equation}{0}
 
-```{r chapter_two, child = 'insert_project_path_here/chapter_manuscript.Rmd', eval = F}
+
+```{r chapter_two, child = "../flowering-cline/03-research.Rmd"}
 ```
 
 \clearpage
 
-<!-- Modify me! -->
-# Insert Title of Chapter 3 Here
 
-<!-- Set figure and table numbering according to the chapter -->
-\renewcommand{\thefigure}{3.\arabic{figure}}
-\setcounter{figure}{0}
-\renewcommand{\thetable}{3.\arabic{table}}
-\setcounter{table}{0}
-\renewcommand{\theequation}{3.\arabic{equation}}
-\setcounter{equation}{0}
-
-```{r chapter_three, child = 'insert_project_path_here/chapter_manuscript.Rmd', eval = F}
-```
-
-\clearpage
-
-<!-- Modify me! -->
-# Insert Title of Chapter 4 Here
-
-<!-- Set figure and table numbering according to the chapter -->
-\renewcommand{\thefigure}{4.\arabic{figure}}
-\setcounter{figure}{0}
-\renewcommand{\thetable}{4.\arabic{table}}
-\setcounter{table}{0}
-\renewcommand{\theequation}{4.\arabic{equation}}
-\setcounter{equation}{0}
-
-```{r chapter_four, child = 'insert_project_path_here/chapter_manuscript.Rmd', eval = F}
-```
-
-\clearpage
-
-<!-- Modify me! -->
-# Insert Title of Chapter 5 Here
-
-<!-- Set figure and table numbering according to the chapter -->
-\renewcommand{\thefigure}{5.\arabic{figure}}
-\setcounter{figure}{0}
-\renewcommand{\thetable}{5.\arabic{table}}
-\setcounter{table}{0}
-\renewcommand{\theequation}{5.\arabic{equation}}
-\setcounter{equation}{0}
-
-```{r chapter_five, child = 'insert_project_path_here/chapter_manuscript.Rmd', eval = F}
-```
-
-\clearpage
 
 <!-- Done with data chapters, last sections -->
 

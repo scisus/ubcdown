@@ -16,24 +16,27 @@ and Postdoctoral Studies for acceptance, the dissertation entitled:
 \vspace{5mm}
 
 
-\noindent\underline{\makebox[6in][l]{Insert your dissertation title here}}  
+\noindent\underline{\makebox[6in][l]{Countergradient variation in lodgepole pine flowering phenology}}  
 \vspace{2mm}
 
-submitted by \underline{Insert Your Name Here} in partial fulfillment of the requirements for
+submitted by \underline{Carolyn Susannah Tysor} in partial fulfillment of the requirements for
 
-the degree of \noindent\underline{\makebox[5in][l]{Name of your Degree}}  
+the degree of \noindent\underline{\makebox[5in][l]{Master of Science}}  
 
-in \noindent\underline{\makebox[5.8in][l]{Insert Program}}
+in \noindent\underline{\makebox[5.8in][l]{Forestry}}
 
 \vspace{5mm}
 
 **Examining Committee:**
 
-\noindent\underline{\makebox[6in][l]{Name of your Supervisor}}  
+\noindent\underline{\makebox[6in][l]{Sally Aitken, Professor, Department of Forest and Conservation Sciences, UBC}}  
 Supervisor
 
-\noindent\underline{\makebox[6in][l]{Name of your Committee Member}}  
-Supervisory Committee Member 
+\noindent\underline{\makebox[6in][l]{Elizabeth Wolkovich, Associate Professor and Canada Research Chair in Temporal Ecology, Department of Forest and Conservation Sciences, UBC}}  
+Supervisory Committee Member
+
+\noindent\underline{\makebox[6in][l]{Michael Whitlock, Professor, Department of Zoology, UBC}}  
+Supervisory Committee Member
 
 \noindent\underline{\makebox[6in][l]{Name of University Examiner}}  
 University Examiner

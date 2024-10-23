@@ -8,87 +8,59 @@ output:
 
 <!-- This section is mandatory! -->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eleifend odio odio, et consectetur nunc commodo vitae. Donec eu finibus lacus. Integer at porta nulla. Fusce dignissim gravida lacinia. Nulla ut odio in ante imperdiet placerat. Maecenas vel imperdiet lorem. Proin ultricies, ex at bibendum fringilla, neque libero malesuada sem, in tincidunt leo mi vel mi. Phasellus scelerisque sagittis urna sed sodales. Curabitur iaculis justo velit, ultricies euismod justo convallis non. Nunc id purus et ante iaculis dignissim vel non erat. Donec dignissim urna ut lobortis congue. Nulla tempus ut ipsum non ornare. Donec ac purus nec sem cursus eleifend. Suspendisse potenti. Vestibulum ac vehicula ante.
+# Literature review
 
-## This could be a sub-hedding
+Plants must synchronize their life cycles with seasonal patterns of climate and resource availability to survive. 
+Proper timing of life cycle events, such as flowering and budburst, allows plants to maximize resource use during favorable periods and avoid damage in harsh conditions. 
+Reproductive phenology, particularly flowering time, influences both gene flow and demography, shaping adaptation and species distributions [@iler2021; @chefaoui2019] 
+In temperate regions, spring phenological events like budburst and flowering are primarily driven by temperature, and warming due to climate change is leading to their advancement  [@piao2019].
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eleifend odio odio, et consectetur nunc commodo vitae. Donec eu finibus lacus. Integer at porta nulla. Fusce dignissim gravida lacinia. Nulla ut odio in ante imperdiet placerat. Maecenas vel imperdiet lorem. Proin ultricies, ex at bibendum fringilla, neque libero malesuada sem, in tincidunt leo mi vel mi. Phasellus scelerisque sagittis urna sed sodales. Curabitur iaculis justo velit, ultricies euismod justo convallis non. Nunc id purus et ante iaculis dignissim vel non erat. Donec dignissim urna ut lobortis congue. Nulla tempus ut ipsum non ornare. Donec ac purus nec sem cursus eleifend. Suspendisse potenti. Vestibulum ac vehicula ante.
+Temperate and boreal forest trees often exhibit strong clinal variation in traits such as growth and cold hardiness across their ranges [@Savolainen2007]. 
+Since flowering phenology is primarily driven by temperature, populations along temperature gradients develop assortative mating, where individuals from similar thermal environments are more likely to mate. 
+This restricted gene flow, due to assortative mating, interacts with selection to drive variation along temperature gradients [@Soularue2014; @soularue2023]. 
+This clinal variation, in turn, influences how populations respond to environmental change by either amplifying or mitigating its effects on phenology. 
+As climate change causes phenological events, like flowering, to advance, it may disrupt existing patterns of gene flow and alter adaptive dynamics in forest tree species.
 
-## In-text citations
+As climate change shifts suitable habitats to higher elevations and latitudes, plant populations must either migrate or adapt to persist [@aitken2008].
+Populations at the trailing edges of species' ranges are expected to face increased mortality and regeneration challenges [@Parmesan2006], while those in the range interior may struggle to keep pace with changing conditions [@Davis2001]. 
+Leading-edge expansion may be constrained by seed dispersal, maladaptation, and pollen limitation [@Zhu2011; @Nathan2011]. 
+While wind pollination enables long-distance gene flow, its success depends on the timing of flowering aligning with pollen dispersal, as gene flow only occurs when pollen reaches receptive flowers.
 
-Read section [2.8](https://bookdown.org/yihui/bookdown/citations.html) of the bookdown guide for more details.
+Flowering phenology, by influencing both fecundity [@Inouye2008] and gene flow [@rivest2021a; @franks2009], plays a key role in shaping spatial genetic structure, adaptation, and range limits [@kitamoto2006; @Soularue2014; @Franks2015; @Chuine2001b]. 
+Accurate predictions of flowering phenology are necessary for development of successful assisted gene flow and colonization strategies in conservation, as phenological mismatch can hinder population persistence and prevent gene flow between native and introduced populations [@wadgymar2017].
 
-To use in-text citations like this [@degoede2017], add bibliographic entries to the *References/reference_list.bib* file, then you can reference the entries using the *citation key*: `[@key]` e.g. `[@degoede2017]`.
+Phenological stages in plants are difficult to observe directly because many developmental processes are hidden. 
+Researchers rely on visible events, like budburst or flowering, to infer unseen stages. 
+Calendar dates for events are often converted into thermal time, which better reflects the effects of temperature variability on development [@trudgill2005]. 
+Temperature is the primary driver of spring phenology in temperate trees, with development proportional to the accumulation of heat over time [@Sarvas1972].
+Once a critical threshold of thermal time is reached, events such as flowering occur. 
+However, accurately defining how forcing accumulates is challenging, as developmental mechanisms remain unclear and vary among species [@Chuine2000]. 
+A common approach uses a simple linear model where the daily contribution to thermal time is the difference between the average daily temperature and a base threshold [@chuine2017]. 
+These thermal time models are more reliable than calendar-based models for predicting phenology across years and locations.
 
-UBCdown comes with two reference styles: Harvard, and Vancouver. To change styles, just edit the YAML section of `main_script.Rmd` to reference the appropriate `.csl` file. If desired, you can also add/replace with your own citation style file `.csl`.
+## Study Species: Lodgepole Pine
+Lodgepole pine is an economically and ecologically important tree species facing multiple threats from climate change [@Schneider2010; @Sambaraju2012; @Hamann2006].
+Its broad geographical range, spanning 33$^\circ$ latitude and 31$^\circ$ longitude covers diverse climates and soils with widespread and significant local adaptation in many traits [@rehfeldt1999; @Wang2010]. 
+Lodgepole pine are also adapted to geographic patterns of fire throughout their range.
+Cone serotiny, an adaptive trait which allows for germination after fire events, is much more common in Rocky Mountain populations [@Morgenstern1996a] where fire is frequent. 
+At smaller scales within the Rocky Mountain region, cone serotiny is predicted well by the type of disturbance that initiated the stand; serotinous cones are predominant in fire-initiated stands and open cones in other types [@Muir1985], with sharp boundaries between the two [@Lotan1976].
 
-## Referencing figures
+Pollen movement is a key vector of gene flow in lodgepole pine, as the species is predominantly outcrossing, with extensive pollen dispersal and relatively limited seed dispersal [@Ennos1994]. 
+However, flowering phenology constrains population connectivity. 
+Fortunately, high-quality reproductive and vegetative phenology data have been collected from seed orchards across British Columbia, where lodgepole pine is cultivated for reforestation. 
+This long-term data set is invaluable for modeling phenology across a wide geographic range.
 
-### Basics
+This study focuses exclusively on *Pinus contorta* ssp. *latifolia*, the most widespread subspecies. 
+The smaller ranges and limited economic significance of the other subspecies (*contorta*, *murrayana*, and *bolanderi*) reduce the availability of phenology data. From this point forward, "lodgepole pine" refers specifically to *P. contorta* ssp. *latifolia* unless otherwise noted.
 
-This text will render with a figure referenced (Figure \@ref(fig:figureTitle)).
+## Research questions
 
-```{r figureTitle, eval = T, echo = T, fig.width = 3, fig.height = 2, echo=FALSE, fig.cap="This is the long caption of the figure that will apear in the main text.", fig.scap = "This is the short title for the figure list", out.extra=''}
+Given the importance of gene flow in maintaining genetic diversity and shaping local adaptation, understanding flowering phenology in lodgepole pine is crucial not only for predicting future range shifts and adaptive potential under climate change but also for explaining current patterns of spatial genetic structure and local adaptation. 
+In this study, I used flowering phenology and temperature data to develop a hierarchical Bayesian thermal time model for predicting pollen shed and cone receptivity in lodgepole pine. 
+The data set spans 15 years and includes 259 provenances grown in seven seed orchards across British Columbia from 1997 to 2011. 
+This study addresses the following questions:
 
-# Call the image
-img <- readPNG("../Images/Professortocat.png")
+1) How much forcing is required for flowering events in lodgepole pine? 
+2) Does provenance change forcing requirements? And 
+3) How will climate change affect lodgepole flowering phenology?
 
-# Print the image
-grid.raster(img)
-```
-
-### Text-references for figure captions
-
-You may need to use citations or special characters in a figure caption, which is not possible by writing the caption directly in the code chunk `fig.cap` option. Instead, you will need to use [in-text references](https://bookdown.org/yihui/bookdown/markdown-extensions-by-bookdown.html#text-references).
-
-How to use in-text references:
-
-1. in the `fig.cap` code chunk option, write `"(ref:TEXT-REFERENCE)"`
-2. outside of code chunk (in the text), start a paragraph with `(ref:TEXT-REFERENCE) ...` then write your caption
-
-Note: "TEXT-REFERENCE" can be replace with whatever, I suggest something descriptive like "figureTitle-cap"
-
-<!-- Example -->
-
-(ref:introfig1-cap) This caption was written with an in-text reference. See how I can use citations like this [@degoede2017] and **special** *characters* _!?@#, which normally would not be possible.
-
-```{r figureTitle, eval = T, echo = T, fig.width = 3, fig.height = 2, echo=FALSE, fig.cap="(ref:introfig1-cap)", fig.scap = "This is the short title for the figure list", out.extra=''}
-
-# Call the image
-img <- readPNG("../Images/Professortocat.png")
-
-# Print the image
-grid.raster(img)
-```
-
-## Tables
-
-Tables are best generated by using `kable` + `kableExtra` (Table \@ref(tab:IntroTable1)). These R packages allow for a lot of customization. I suggest saving your tables as `.csv` files and then loading them into R with `readr::read_csv`.
-
-<!-- Example -->
-
-<!-- this code chunk makes NA cells in the appear as blanks -->
-
-```{r echo=FALSE, results='asis'}
-    options(knitr.kable.NA = '')
-```
-
-\captionsetup{width=6.5in} <!-- makes table caption stays in margins -->
-
-<!-- This code chunk prints the table, many options for customization are available -->
-
-```{r IntroTable1, eval = T, echo = T, echo=FALSE, warning = FALSE, message=FALSE,  out.extra=''}
-kableExtra::kbl(
-  readr::read_csv(here::here('Tables', 'Introduction - Table 1.csv')),
-  booktabs = TRUE,
-  caption = 'This is the title of the table.') %>%
-  kableExtra::kable_styling(full_width = TRUE) %>%  # table spans across left to right margins
-  kableExtra::footnote(
-    symbol="Can add footnotes here.", 
-    general = 'EOPET - Early Onset Preeclampsia.', # acronyms
-    general_title = '') %>%
-  
-  kableExtra::kable_styling(latex_options = "hold_position") # ensures the table isn't "floated" and pins it to the current location
-```
-
-See [2.5](https://bookdown.org/yihui/bookdown/tables.html) for details. Tables are referenced in the same way as figures, through the code chunk label. The title of the table is specified in the `caption` option under the `kableExtra::kbl` call.
