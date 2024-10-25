@@ -8,8 +8,6 @@ output:
 
 <!-- This section is mandatory! -->
 
-# Literature review
-
 Plants must synchronize their life cycles with seasonal patterns of climate and resource availability to survive. 
 Proper timing of life cycle events, such as flowering and budburst, allows plants to maximize resource use during favorable periods and avoid damage in harsh conditions. 
 Reproductive phenology, particularly flowering time, influences both gene flow and demography, shaping adaptation and species distributions [@iler2021; @chefaoui2019] 
