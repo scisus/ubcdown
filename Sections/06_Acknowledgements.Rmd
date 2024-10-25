@@ -8,20 +8,14 @@ output:
 
 <!-- This section is optional -->
 
-Like nearly all worthwhile projects, this work is the product of many hands. 
-
 Depending on how you measure things, this thesis took 13 years or 3. I cannot thank enough the people who understand crip spacetime who helped me build a path I could walk through an inhospitable institution, most especially Sandy and Caroline. 
 
-My entire supervisory committee - past and present - encouraged me, improved the research, and kept me engaged with their questions and insights.
-
-My supervisor was patient when I needed it and her love for trees and forests kept me focused on the big picture no matter how frustrated or confused I got.
-
-I had many wonderful lab mates, whose interest and shared joy of discovery kept me motivated and helped me pick through tricky problems. I am especially grateful for the friendship, understanding, and Bayesian camaraderie of Joane Elleouet.
+My supervisor was patient when I needed it and her love for trees and forests kept me focused on the big picture no matter how frustrated or confused I got. My entire supervisory committee - past and present - encouraged me, improved the research, and kept me engaged with their questions and insights. I had many wonderful lab mates, whose interest and shared joy of discovery kept me motivated and helped me pick through tricky problems. I am especially grateful for the friendship, understanding, and Bayesian camaraderie of Joane Elleouet.
 
 Richard MacElreath, Michael Betancourt, and many contributors to the Stan forums taught me the statistics and programming I needed to build the phenology model at the center of this work.
 
-Seed orchard workers laboured for 15 springs shaking branches and inspecting seed cones and their careful records became an extraordinary phenology dataset that was a privilege to work with. I hope that I've left it in a state that many others can benefit from their work. Jack Woods, Rita Wagner (PGTIS), Chris Walsh (Kalamalka seed orchards), and Joe Webber (Glynn Road Research Station) helped me obtain and interpret the seed orchard data this project relies on. I benefited greatly from their long years of work and hard-earned experience in BC forestry. Rob Johnstone transcribed tens of thousands of phenology observations from field sheets and scans before neural nets were up to such complex OCR tasks. Sarah Bisbing and Conor Phelan provided the shapefile for the *Pinus contorta* ssp. *latifolia* range map.
+Seed orchard workers laboured for 15 springs shaking branches and inspecting seed cones and their careful records became an extraordinary phenology dataset that was a privilege to work with. I hope that I've left it in a state that many others can benefit from their work. Jack Woods, Rita Wagner, Chris Walsh, and Joe Webber helped me obtain and interpret the seed orchard data this project relies on. I benefited greatly from their long years of work and hard-earned experience in BC forestry. Rob Johnstone transcribed tens of thousands of phenology observations from field sheets and scans before neural nets were up to such complex OCR tasks. Sarah Bisbing and Conor Phelan provided the shapefile for the *Pinus contorta* ssp. *latifolia* range map.
 
 I would also like to thank GySgt T. Kerr for her example of integrity, grit, and good humour in difficult circumstances.
 
-Most of all, I am grateful for my partner and caregiver, Graydon. Without his material, bodily, intellectual, technical, and emotional support, this thesis would not exist.
+Most of all, I am grateful for my partner and caregiver, Graydon. Without his financial, bodily, intellectual, technical, and emotional support, this thesis would not exist.
