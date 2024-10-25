@@ -121,14 +121,15 @@ NOTE: Remove normal markdown chapters before rendering to PDF  -->
 
 
 <!-- # Glossary -->
+<!--
 \section*{Glossary}
 \addcontentsline{toc}{section}{Glossary}
 
-```{r Glossary, child = './Sections/05_Glossary.Rmd', eval = T}
+```{r Glossary, child = './Sections/05_Glossary.Rmd', eval = F}
 ```
 
 \clearpage
-
+-->
 
 <!-- # Acknowledgements -->
 \section*{Acknowledgements}
@@ -234,33 +235,7 @@ NOTE: Remove normal markdown chapters before rendering to PDF  -->
 \renewcommand{\theequation}{A2.\arabic{equation}}
 \setcounter{equation}{0}
 
-```{r appendix_a, child = '~/GitHub/FishForVisa/Scripts/supplements.Rmd', eval = F}
-```
-
-## Appendix B - Supplementary information for Chapter Three
-
-<!-- Set Figure, table and equations numbering according to the chapter -->
-\renewcommand{\thefigure}{A3.\arabic{figure}}
-\setcounter{figure}{0}
-\renewcommand{\thetable}{A3.\arabic{table}}
-\setcounter{table}{0}
-\renewcommand{\theequation}{A3.\arabic{equation}}
-\setcounter{equation}{0}
-
-```{r appendix_b, child = '~/GitHub/TransEmergence/Scripts/Supplements.Rmd', eval = F}
-```
-
-## Appendix C - Supplementary information for Chapter Four
-
-<!-- Set Figure, table and equations numbering according to the chapter -->
-\renewcommand{\thefigure}{A4.\arabic{figure}}
-\setcounter{figure}{0}
-\renewcommand{\thetable}{A4.\arabic{table}}
-\setcounter{table}{0}
-\renewcommand{\theequation}{A4.\arabic{equation}}
-\setcounter{equation}{0}
-
-```{r appendix_c, child = '~/GitHub/OC_Transboundary/Ecol/Supplements.Rmd', eval = F}
+```{r appendix_a, child = '../flowering-cline/06-suppmat.Rmd'}
 ```
 
 <!-- END OF SCRIPT -->
