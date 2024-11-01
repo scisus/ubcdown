@@ -8,10 +8,10 @@ output:
 
 <!-- Remember, It can't be longer than 150 words! -->
 
-Flowering timing influences adaptation and where species occur because it affects plants' ability to reproduce and who plants reproduce with. 
+Flowering timing influences adaptation and where species occur because it affects plants' ability to reproduce and which other plants they reproduce with. 
 Lodgepole pine is an important species in British Columbia's forests and forestry industry.
 I modelled how much warmth lodgepole pine needs to "flower" (shed and receive pollen) in the spring. 
-I also confirmed that northern populations of lodgepole pine need less warmth to flower than southern populations and quantified those differences, which are small relative to the variation among individual trees.
-This pattern means lodgepole pine populations should tend to reproduce with others in similar climates, though not exclusively, which supports local adaptation.
-With climate change, lodgepole pine are expected to flower several weeks earlier by 2100 than they do today without strongly altering which populations can reproduce with each other.
+I also confirmed that northern populations of lodgepole need less warmth to flower than southern populations and quantified those differences, which are small relative to the variation among individual trees.
+This pattern means lodgepole populations should tend to reproduce with others in similar climates, though not exclusively, which supports local adaptation.
+With climate change, lodgepole are expected to flower several weeks earlier by 2100 than they do today without strongly altering which populations can reproduce with each other.
 The predictive model developed here will enable more research into how flowering timing affects lodgepole ecology and evolution.

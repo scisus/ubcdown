@@ -14,8 +14,12 @@ Reproductive phenology, particularly flowering time, influences both gene flow a
 In temperate regions, spring phenological events like budburst and flowering are primarily driven by temperature, and warming due to climate change is leading to their advancement  [@piao2019].
 
 Temperate and boreal forest trees often exhibit strong clinal variation in traits such as growth and cold hardiness across their ranges [@Savolainen2007]. 
-Since flowering phenology is primarily driven by temperature, populations along temperature gradients develop assortative mating, where individuals from similar thermal environments are more likely to mate. 
-This restricted gene flow, due to assortative mating, interacts with selection to drive variation along temperature gradients [@Soularue2014; @soularue2023]. 
+Clinal variation can be co- or counter- gradient [@conover1995]. 
+Co-gradient variation occurs when the effect of selection on genotype aligns with the environmental influence on phenotype, driving phenotypic differences along the cline.
+Counter-gradient variation occurs when the effect of selection on genotype opposes the environmental effect on phenotype, driving phenotypic similarity along the cline.
+Since flowering phenology is primarily driven by temperature, populations along temperature gradients develop assortative mating, where individuals from similar thermal environments are more likely to mate.
+This restricted gene flow, due to assortative mating, leads to co-gradient variation even in the absense of selection [@Soularue2012].
+Selection can intensify the co-gradient variation or oppose the influence of gene flow to create countergradient variation [@Soularue2014]. 
 This clinal variation, in turn, influences how populations respond to environmental change by either amplifying or mitigating its effects on phenology. 
 As climate change causes phenological events, like flowering, to advance, it may disrupt existing patterns of gene flow and alter adaptive dynamics in forest tree species.
 
@@ -37,15 +41,22 @@ A common approach uses a simple linear model where the daily contribution to the
 These thermal time models are more reliable than calendar-based models for predicting phenology across years and locations.
 
 ## Study Species: Lodgepole Pine
-Lodgepole pine is an economically and ecologically important tree species facing multiple threats from climate change [@Schneider2010; @Sambaraju2012; @Hamann2006].
-Its broad geographical range, spanning 33$^\circ$ latitude and 31$^\circ$ longitude covers diverse climates and soils with widespread and significant local adaptation in many traits [@rehfeldt1999; @Wang2010]. 
+*Pinus cortorta* (lodgepole pine) is an economically and ecologically important tree species facing multiple threats from climate change [@Schneider2010; @Sambaraju2012; @Hamann2006].
+Its broad geographical range, spanning 33$^\circ$ latitude and 31$^\circ$ longitude, covers diverse climates and soils with widespread and significant local adaptation in many traits; while populations are often not growing in their optimum climate, survival and growth decline dramatically if trees are transferred too far from their home climates [@rehfeldt1999; @Wang2010]. 
 Lodgepole pine are also adapted to geographic patterns of fire throughout their range.
 Cone serotiny, an adaptive trait which allows for germination after fire events, is much more common in Rocky Mountain populations [@Morgenstern1996a] where fire is frequent. 
 At smaller scales within the Rocky Mountain region, cone serotiny is predicted well by the type of disturbance that initiated the stand; serotinous cones are predominant in fire-initiated stands and open cones in other types [@Muir1985], with sharp boundaries between the two [@Lotan1976].
 
 Pollen movement is a key vector of gene flow in lodgepole pine, as the species is predominantly outcrossing, with extensive pollen dispersal and relatively limited seed dispersal [@Ennos1994]. 
 However, flowering phenology constrains population connectivity. 
+Predicting pollen shed and receptivity would allow characterization of that constraint.
 Fortunately, high-quality reproductive and vegetative phenology data have been collected from seed orchards across British Columbia, where lodgepole pine is cultivated for reforestation. 
+This long-term data set is invaluable for modeling phenology across a wide geographic range.
+
+Pollen movement is a key vector of gene flow in lodgepole pine, a predominantly outcrossing species with extensive pollen dispersal but relatively limited seed dispersal [@Ennos1994]. 
+However, flowering timing constrains how populations connect and exchange genes. 
+Being able to predict pollen shed and receptivity would allow us to characterize those constraints.
+Fortunately, high-quality data on reproductive and vegetative phenology have been collected from lodgepole pine seed orchards across British Columbia, where the species is cultivated for reforestation. 
 This long-term data set is invaluable for modeling phenology across a wide geographic range.
 
 This study focuses exclusively on *Pinus contorta* ssp. *latifolia*, the most widespread subspecies. 

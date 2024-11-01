@@ -32,7 +32,7 @@ in \noindent\underline{\makebox[5.8in][l]{Forestry}}
 \noindent\underline{\makebox[6in][l]{Sally Aitken, Professor, Department of Forest and Conservation Sciences, UBC}}  
 Supervisor
 
-\noindent\underline{\makebox[6in][l]{Elizabeth Wolkovich, Associate Professor and Canada Research Chair in Temporal Ecology, Department of Forest and Conservation Sciences, UBC}}  
+\noindent\underline{\makebox[6in][l]{Elizabeth Wolkovich, Associate Professor, Department of Forest and Conservation Sciences, UBC}}  
 Supervisory Committee Member
 
 \noindent\underline{\makebox[6in][l]{Michael Whitlock, Professor, Department of Zoology, UBC}}  
