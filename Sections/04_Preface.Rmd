@@ -14,7 +14,7 @@ I was responsible for developing the research questions, designing and performin
 
 Sarah Bisbing and Conor Phelan provided the shapefile for the *Pinus contorta* ssp. *latifolia* range map in Figure \@ref(fig:rangemap).
 
-The generative AI tool ChatGPT was used to
+The generative AI tool ChatGPT was used to:
 
 1) create custom legends for several figures and adjust figure aesthetics,
 2) help debug analysis code, and 

@@ -10,7 +10,7 @@ output:
 
 Plants must synchronize their life cycles with seasonal patterns of climate and resource availability to survive. 
 Proper timing of life cycle events, such as flowering and budburst, allows plants to maximize resource use during favorable periods and avoid damage in harsh conditions. 
-Reproductive phenology, particularly flowering time, influences both gene flow and demography, shaping adaptation and species distributions [@iler2021; @chefaoui2019] 
+Reproductive phenology, particularly flowering time, influences both gene flow and demography, shaping adaptation and species distributions [@iler2021; @chefaoui2019]. 
 In temperate regions, spring phenological events like budburst and flowering are primarily driven by temperature, and warming due to climate change is leading to their advancement  [@piao2019].
 
 Temperate and boreal forest trees often exhibit strong clinal variation in traits such as growth and cold hardiness across their ranges [@Savolainen2007]. 
@@ -18,7 +18,7 @@ Clinal variation can be co- or counter- gradient [@conover1995].
 Co-gradient variation occurs when the effect of selection on genotype aligns with the environmental influence on phenotype, driving phenotypic differences along the cline.
 Counter-gradient variation occurs when the effect of selection on genotype opposes the environmental effect on phenotype, driving phenotypic similarity along the cline.
 Since flowering phenology is primarily driven by temperature, populations along temperature gradients develop assortative mating, where individuals from similar thermal environments are more likely to mate.
-This restricted gene flow, due to assortative mating, leads to co-gradient variation even in the absense of selection [@Soularue2012].
+This restricted gene flow, due to assortative mating, leads to co-gradient variation even in the absence of selection [@Soularue2012].
 Selection can intensify the co-gradient variation or oppose the influence of gene flow to create countergradient variation [@Soularue2014]. 
 This clinal variation, in turn, influences how populations respond to environmental change by either amplifying or mitigating its effects on phenology. 
 As climate change causes phenological events, like flowering, to advance, it may disrupt existing patterns of gene flow and alter adaptive dynamics in forest tree species.
@@ -70,6 +70,6 @@ The data set spans 15 years and includes 259 provenances grown in seven seed orc
 This study addresses the following questions:
 
 1) How much forcing is required for flowering events in lodgepole pine? 
-2) Does provenance change forcing requirements? And 
+2) Does provenance change forcing requirements? 
 3) How will climate change affect lodgepole flowering phenology?
 

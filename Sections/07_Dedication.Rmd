@@ -18,4 +18,6 @@ J.J.T., D.B., C.M., B.T., H.C., K.N., A.J., D.C., S.V., J.R.
 \end{center}
 
 
-
+```{r, echo = FALSE}
+#Gramma, Aunt Dorene, Craig Malony, Uncle Barney, Helen Chappell, Kristin, Tony J., Uncle Dan, Stan Vigil, John Roberts 
+```
