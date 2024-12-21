@@ -9,7 +9,7 @@ output:
 <!-- This section is mandatory! -->
 
 This study uses a novel thermal time model to estimate forcing requirements for both receptivity and pollen shed in *Pinus contorta* ssp. *latifolia* (lodgepole pine), quantifies countergradient variation and within-population variation in flowering, and predicts significant advancements in flowering under climate change. 
-Estimates are based on a model fit using my assembly of the most comprehensive data set of lodgepole pine flowering available to date, spanning 259 provenances grown at 7 sites and observed over 15 years.
+Estimates are based on a model fit using my assembly of the most comprehensive data set of lodgepole pine flowering available to date, spanning 149 provenances grown at 7 sites and observed over 16 years.
 Unlike many phenology models that rely on day of year, which limits their applicability, the model developed here can be used across different locations and years. 
 
 This model offers a powerful tool for predicting flowering timing across space and time, deepening insights into gene flow, adaptation, and climate change impacts on lodgepole pine.

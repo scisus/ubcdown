@@ -63,10 +63,19 @@ This study focuses exclusively on *Pinus contorta* ssp. *latifolia*, the most wi
 The smaller ranges and limited economic significance of the other subspecies (*contorta*, *murrayana*, and *bolanderi*) reduce the availability of phenology data. From this point forward, "lodgepole pine" refers specifically to *P. contorta* ssp. *latifolia* unless otherwise noted.
 
 ## Research questions
-
+```{r echo=FALSE}
+# this code chunk is duplicated from one in research chapter
+phenf <- readRDS('~/Documents/research/lodgepolethermaltime/objects/phenf.rds')
+genotypecnt <- length(unique(phenf$Genotype))
+treecnt <- length(unique(phenf$Tree))
+provcnt <- phenf %>%
+    select(Latitude, Longitude) %>%
+    distinct() %>%
+    nrow()
+```
 Given the importance of gene flow in maintaining genetic diversity and shaping local adaptation, understanding flowering phenology in lodgepole pine is crucial not only for predicting future range shifts and adaptive potential under climate change but also for explaining current patterns of spatial genetic structure and local adaptation. 
 In this study, I used flowering phenology and temperature data to develop a hierarchical Bayesian thermal time model for predicting pollen shed and cone receptivity in lodgepole pine. 
-The data set spans 15 years and includes 259 provenances grown in seven seed orchards across British Columbia from 1997 to 2011. 
+The data set spans 15 years and includes `r provcnt`` provenances grown in seven seed orchards across British Columbia from 1997 to 2011. 
 This study addresses the following questions:
 
 1) How much forcing is required for flowering events in lodgepole pine? 

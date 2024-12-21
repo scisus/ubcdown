@@ -10,7 +10,7 @@ output:
 
 The timing and duration of pollen shed and cone receptivity in lodgepole pine (*Pinus contorta*) influence its fecundity, levels of gene flow, and local adaptation. 
 Accurate predictions of spring reproductive ("flowering") phenology are essential for understanding local adaptation, gene flow, population structure, and climate change impacts. 
-Using 15 years of data from lodgepole pine sourced from across British Columbia and grown at seven seed orchard sites in an approximate common garden design, I developed a multilevel Bayesian model to assess the forcing requirements for flowering onset and cessation, and the provenance effects on these requirements for both male and female strobili. 
+Using 16 years of data from lodgepole pine sourced from across British Columbia and grown at seven seed orchard sites in an approximate common garden design, I developed a multilevel Bayesian model to assess the forcing requirements for flowering onset and cessation, and the provenance effects on these requirements for both male and female strobili. 
 The model reveals a countergradient pattern in flowering: populations from warm locations require more forcing by warm temperatures than those from colder locations. 
 This countergradient effect should result in increased overlap among populations at the landscape level but decreased overlap within individual seed orchards. 
 Pollen shed typically begins shortly before and ends slightly after receptivity. By applying the model to historical and predicted daily temperature records, I estimated flowering phenology for diverse provenances at multiple sites from 1945 to 2100, translating forcing predictions into specific days of the year. 
