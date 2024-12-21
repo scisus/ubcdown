@@ -38,7 +38,7 @@ Supervisory Committee Member
 \noindent\underline{\makebox[6in][l]{Michael Whitlock, Professor, Department of Zoology, UBC}}  
 Supervisory Committee Member
 
-\noindent\underline{\makebox[6in][l]{Name of University Examiner}}  
+\noindent\underline{\makebox[6in][l]{Sean Michaletz, Assistant Professor, Department of Botany, UBC}}  
 University Examiner
 
 \noindent\underline{\makebox[6in][l]{Name of University Examiner}}  
